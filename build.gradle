@@ -27,8 +27,6 @@ tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
 }
 
-jar.destinationDirectory.set(file("C:\\Users\\HP\\Desktop\\test\\plugins"))
-
 def targetJavaVersion = 17
 java {
     def javaVersion = JavaVersion.toVersion(targetJavaVersion)
