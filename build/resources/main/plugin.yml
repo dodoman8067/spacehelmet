@@ -1,7 +1,7 @@
 name: HypixelSpaceHelmet
 version: '1.0.1'
 author: _dodoman
-description: This plugin will introduce space helmet item
+description: This plugin will introduce space helmet item. (Original item by Hypixel)
 main: kro.dodoworld.spacehelmet.HypixelSpaceHelmet
 api-version: '1.19'
 commands:
@@ -20,4 +20,4 @@ permissions:
 
   spacehelmet.give:
     default: op
-    description: Will able to give space helmets.
+    description: This permission will make players able to give space helmets in command.
