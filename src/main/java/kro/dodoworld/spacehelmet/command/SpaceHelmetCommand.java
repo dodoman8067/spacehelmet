@@ -4,7 +4,6 @@ import kro.dodoworld.spacehelmet.data.SpaceHelmetEdition;
 import kro.dodoworld.spacehelmet.item.ItemManager;
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.NamedTextColor;
-import net.kyori.adventure.text.format.TextDecoration;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

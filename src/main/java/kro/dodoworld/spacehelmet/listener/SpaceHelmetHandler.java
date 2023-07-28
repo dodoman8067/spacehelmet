@@ -1,6 +1,5 @@
 package kro.dodoworld.spacehelmet.listener;
 
-import com.destroystokyo.paper.event.inventory.PrepareResultEvent;
 import kro.dodoworld.spacehelmet.HypixelSpaceHelmet;
 import kro.dodoworld.spacehelmet.item.SpaceHelmetItem;
 import org.bukkit.Bukkit;
@@ -15,14 +14,11 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityTransformEvent;
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.event.inventory.InventoryType;
-import org.bukkit.event.inventory.PrepareAnvilEvent;
 import org.bukkit.event.inventory.PrepareGrindstoneEvent;
 import org.bukkit.event.inventory.PrepareItemCraftEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
-import org.bukkit.inventory.EnchantingInventory;
 import org.bukkit.inventory.EquipmentSlot;
 import org.bukkit.inventory.ItemStack;
-import org.bukkit.inventory.PlayerInventory;
 
 public class SpaceHelmetHandler implements Listener {
 
