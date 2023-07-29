@@ -12,7 +12,7 @@ If you want to give this item to other players, you can type this command instea
 
 ## Limits
 Client handles creative mode inventory, so it
-means you can't equip the space helmet manually clicking the helmet slot with the helmet on the cursor.
+means you can't equip the space helmet manually clicking the helmet slot.
 The only solution is to equip the helmet with right click.
 But in survival mode, you can still equip the helmet like normal helmets!
 
