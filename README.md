@@ -11,8 +11,8 @@ If you want to give this item to other players, you can type this command instea
     /spacehelm <player_name_here>
 
 ## Limits
-Client handles creative mode inventory,
+Client handles creative mode inventory, so it
 means you can't equip the space helmet manually clicking the helmet slot with the helmet on the cursor.
 The only solution is to equip the helmet with right click.
-But you can still equip the helmet on survival mode inventory like normal helmets!
+But in survival mode, you can still equip the helmet like normal helmets!
 
