@@ -2,7 +2,7 @@
 Adds `Space Helmet` item on your server.\
 Original item by [Hypixel](https://hypixel.net).
 
-## How to get item?
+## How to get
 Type `/spacehelm`<sup>only works if you're op</sup> on your server with this plugin installed.
 \
 You can type this command instead if you want to give this item to another player.
