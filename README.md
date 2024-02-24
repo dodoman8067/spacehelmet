@@ -1,5 +1,5 @@
 # SpaceHelmet
-Adds `Space Helmet` item on your server.\
+Adds a special item called `Space Helmet` on your server.\
 Original item by [Hypixel](https://hypixel.net).
 
 ## How to get
