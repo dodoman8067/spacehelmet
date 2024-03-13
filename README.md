@@ -10,7 +10,7 @@ You can type this command instead if you want to give this item to another playe
     /spacehelm <player_name_here>
 
 ## Limits
-Client handles creative mode inventory unlike survival inventory; It means you can't equip the space helmet just by clicking the helmet slot with the space helmet on your cursor.
+Client handles the creative mode inventory unlike the survival inventory. It means you can't equip the space helmet just by clicking the helmet slot with the space helmet on your cursor.
 The only solution is to equip the helmet with right click.
 
 You may still equip the helmet like other vanilla helmets if you're in survival mode.
