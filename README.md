@@ -1,16 +1,11 @@
 # SpaceHelmet
-Adds a special item called `Space Helmet` on your server.\
-Original item by [Hypixel](https://hypixel.net).
-
-## Usage
-Type `/spacehelm`<sup>only works if you're op</sup> on your server with this plugin installed.
+[하이픽셀](https://hypixel.net)의 `Space Helmet` 아이템을 구현한 플러그인입니다.
+## 사용
+`/spacehelm` 명령어로 아이템을 받을 수 있습니다.
 \
-You can type the command shown below instead if you want to give the item to another player.
+타 플레이어 지급을 윈할 시 아래 형태로도 사용이 가능합니다.
     
     /spacehelm <player_name_here>
 
-## Limits
-Client handles the creative mode inventory unlike the survival mode inventory. It means you can't equip the space helmet just by clicking the helmet slot with the space helmet on your cursor.
-The only solution is to equip the helmet with right click.
-
-You may still equip the helmet like other vanilla helmets if you're in survival mode.
+## 미구현 사항
+크리에이티브 모드 인벤토리에서의 일반적인 헬멧과 동일한 방식의 아이템 착용  
